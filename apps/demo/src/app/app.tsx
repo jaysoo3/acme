@@ -1,5 +1,4 @@
 import { Route, Routes } from 'react-router-dom';
-// importing the component from the library
 import { Hero } from '@acme/ui';
 
 export function App() {
