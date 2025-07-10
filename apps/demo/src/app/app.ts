@@ -8,7 +8,7 @@ import { Hero } from '@acme/ui';
   imports: [RouterOutlet, Hero],
   template: `
     <lib-hero
-      title="Welcmoe demo"
+      title="Welcome demo"
       subtitle="Build something amazing today"
       cta="Get Started"
     ></lib-hero>
