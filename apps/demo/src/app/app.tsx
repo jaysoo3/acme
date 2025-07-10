@@ -6,7 +6,7 @@ export function App() {
     <>
       <h1>Home</h1>
       <Hero
-        title="Wlcome @acme/demo"
+        title="Welcome @acme/demo"
         subtitle="Build something amazing today"
         cta="Get Started"
       />
